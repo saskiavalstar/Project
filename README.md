@@ -20,5 +20,5 @@ De volgende onderdelen zullen worden weergegeven op de datavisualisatie:
 
 Hieronder een voorlopige en een uitgebreidere schets van hoe ik hoop dat het eruit gaat zien. 
 ![](doc/Proposal sketch.jpeg)
-![](doc/Advanced sketch.png)
+![](doc/Advanced sketch air pollution.png)
 
