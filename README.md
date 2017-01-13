@@ -11,6 +11,13 @@ Waar rekening mee gehouden moet worden, is het gebruik van verschillende dataset
 
 http://gamapserver.who.int/gho/interactive_charts/mbd/life_expectancy/atlas.html laat zien wat ik voor ogen heb, ik wil alleen allerlei datasets combineren om een completer overzicht te geven. Daarbij vind ik de tabel met alle data van alle landen niet heel nuttig om zo groot te weergeven, die zou ik vervangen door een tabel per land.  
 
+De volgende onderdelen zullen worden weergegeven op de datavisualisatie:
+- Wereldkaart met concentratie fijnstof of percentage dat kookt met hout/kolen (kiezen mbv dropdown)
+- Staafdiagram met alle landen op een rij om te zien hoe het land het ten opzichte van de rest van de wereld doet 
+- Taartdiagram met de verdeling van de soorten ziektes (per land verschillend)
+- Scatterplot met concentratie fijnstof vergeleken met het sterftecijfer door verslechterde luchtkwaliteit (licht op als je op het land klikt) 
+- Tijdlijn met de verbetering/verslechtering van de luchtkwaliteit (evt met een sleepmechanisme)
+
 Hieronder een voorlopige en een uitgebreidere schets van hoe ik hoop dat het eruit gaat zien. 
 ![](doc/Proposal sketch.jpeg)
 ![](doc/Advanced sketch.png)
